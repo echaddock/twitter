@@ -26,4 +26,10 @@ Time spent: `8`
 - [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
 
 ### Walkthrough
+![Video Walkthrough](twitter.gif)
 
+Credits
+---------
+* Twitter API
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* The Noun Project
