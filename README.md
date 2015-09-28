@@ -1,5 +1,5 @@
 ## Twitter
-This is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
+This is a basic twitter app to read and compose tweets with the [Twitter API](https://apps.twitter.com/).
 
 Time spent: `8`
 
